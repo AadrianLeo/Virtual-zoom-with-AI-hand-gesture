@@ -10,7 +10,7 @@ The project is made using python language.
 The hand tracking module is from [cvzone](https://github.com/cvzone/cvzone).
 
 ```bash
-pip install cv2
+pip install cvzone
 # and
 pip install mediapipe
 ```
